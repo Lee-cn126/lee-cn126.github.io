@@ -2,6 +2,10 @@
 
 北京交通大学人工智能专业本科生，展示 AI 全栈开发、Agent 工作流与 RAG 项目经历。
 
+访问网站：https://lee-cn126.github.io/
+
+源码仓库：https://github.com/Lee-cn126/lee-cn126.github.io
+
 这是 GitHub Pages 发布版本。网站为静态 HTML、CSS、JavaScript，无需安装 npm 依赖。
 
 ## 目录
